@@ -2,9 +2,11 @@
 
 ## Navigation
 
+* [8.1.2](#812)
 * [8.1.1](#811)
 * [8.1.0.1](#8101)
 * [8.1.0](#810)
+* [8.0.8](#808)
 * [8.0.7](#807)
 * [8.0.6.1](#8061)
 * [8.0.6](#806)
@@ -43,6 +45,13 @@
 
 ---
 
+## 8.1.2
+
+#### Changes
+* Bugfixes and documentation updates
+
+---
+
 ## 8.1.1
 
 #### Changes
@@ -69,6 +78,16 @@
 * Enabled multisite for the `splunk_monitor` role
 * Enabled local indexing on the license master
 * Bugfixes and cleanup
+
+---
+
+## 8.0.8
+
+#### What's New?
+Syncing with latest codebase - currently up to sync with 8.1.1.
+
+#### Changes
+* See [8.1.1](#811) changes above.
 
 ---
 
